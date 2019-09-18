@@ -35,4 +35,12 @@ char <- "BOY"
 int <- c(5,6,9)
 num <- 4.9
 fact <- factor(c("Boy", "Dog", "Cat"))
-          
+list <- list(c("One", "Two"))
+a_array <- array(data = 1:20, dim = c(4,3,2))       
+mat <- matrix(1:10, nrow = 5, ncol = 2)
+mat_extract <- mat[4,1]
+mat_extract
+a_array
+array_extract <- a_array[2,2,2]
+array_extract
+# An array can have levels while a matrix cant have levels
