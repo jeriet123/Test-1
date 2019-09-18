@@ -31,4 +31,8 @@ else if (Ans == "c"){"Cat"}
 else if (Ans == "r"){"Rat"}
 else {'Monkey'}}
 Ans <- 'v'
-
+char <- "BOY"
+int <- c(5,6,9)
+num <- 4.9
+fact <- factor(c("Boy", "Dog", "Cat"))
+          
