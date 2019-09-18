@@ -26,4 +26,9 @@ Operator(3)
 # -INF and INF means infinity and occurs when math is don that the computer cant comprehend
 matrix()
 # NA means not apllicable and occurs when a value is missing
+{if(Ans == "d"){"Dog"}  
+else if (Ans == "c"){"Cat"}
+else if (Ans == "r"){"Rat"}
+else {'Monkey'}}
+Ans <- 'v'
 
